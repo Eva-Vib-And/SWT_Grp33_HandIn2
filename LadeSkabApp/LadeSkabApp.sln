@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LadeSkabApp", "LadeSkabApp\LadeSkabApp.csproj", "{BDD26445-964C-4439-8228-0AE47F32E631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestLadeSkab", "NUnitTestLadeSkab\NUnitTestLadeSkab.csproj", "{24950273-786E-46D3-A5F2-0F6F9572808A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD26445-964C-4439-8228-0AE47F32E631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD26445-964C-4439-8228-0AE47F32E631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD26445-964C-4439-8228-0AE47F32E631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD26445-964C-4439-8228-0AE47F32E631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24950273-786E-46D3-A5F2-0F6F9572808A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24950273-786E-46D3-A5F2-0F6F9572808A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24950273-786E-46D3-A5F2-0F6F9572808A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24950273-786E-46D3-A5F2-0F6F9572808A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1CC101-AE91-45C3-B189-89A003504EAC}
+	EndGlobalSection
+EndGlobal
